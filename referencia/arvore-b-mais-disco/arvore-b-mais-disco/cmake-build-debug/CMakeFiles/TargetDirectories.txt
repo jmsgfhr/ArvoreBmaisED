@@ -1,0 +1,3 @@
+/Users/vanessa/Dropbox/Documents/Disciplinas/ED/Aulas/12-ArvoreBMais/arvore-b-mais-disco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vanessa/Dropbox/Documents/Disciplinas/ED/Aulas/12-ArvoreBMais/arvore-b-mais-disco/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vanessa/Dropbox/Documents/Disciplinas/ED/Aulas/12-ArvoreBMais/arvore-b-mais-disco/cmake-build-debug/CMakeFiles/arvore_b_mais_disco.dir
